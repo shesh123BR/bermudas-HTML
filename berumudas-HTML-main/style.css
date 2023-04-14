@@ -1,0 +1,12 @@
+body {
+    background-image: url(top-3.jpg);
+    background-attachment: fixed;
+}
+
+header{
+     color:white;
+     border: 3px solid white;
+     box-shadow: 0 0 40px white; 
+     background-color: rgba(0, 0, 0, 0.534);
+     text-align: center;
+}
