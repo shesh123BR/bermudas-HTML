@@ -1,0 +1,34 @@
+@font-face {
+    font-family:ariall ;
+    src: url(Cavalier-Bold.ttf)
+}
+ 
+
+body  {font-family:'ariall';
+    background-image: url(top-3.jpg);
+    background-attachment: fixed;
+}
+
+h1{
+     color:white;
+     border: 3px solid white;
+     box-shadow: 0 0 40px white; 
+     background-color: rgba(0, 0, 0, 0.534);
+     text-align: center;
+}
+ ul li{
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    display: inline-block;
+    margin: 0 30px;
+}
+  
+img{
+ margin-left:30% ;
+
+}
+
+
+
+
+
